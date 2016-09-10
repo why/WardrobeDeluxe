@@ -39,7 +39,7 @@
             this.InfoLbl.Name = "InfoLbl";
             this.InfoLbl.Size = new System.Drawing.Size(209, 36);
             this.InfoLbl.TabIndex = 0;
-            this.InfoLbl.Text = "Welcome! Please place a pet horse..";
+            this.InfoLbl.Text = "Please mount a pet horse..";
             this.InfoLbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
